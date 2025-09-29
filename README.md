@@ -186,7 +186,7 @@ I'm always open to collaborating on data science projects, discussing analytics 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faith-)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithwambui@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithnyaguthii4615@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B254798983272-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254798983272)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faithwambui)
 
